@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my DSA and a personal finance tracker project<br>👯 I’m looking to collaborate on projects related to cybersecurity<br>🌱 I’m currently learning DSA and network security<br>💬 Ask me about my interests and goals
+🔭 I’m currently working on my DSA and a personal finance tracker project<br>👯 I’m looking to collaborate on projects related to cybersecurity<br>🌱 I’m currently learning Django and network security<br>💬 Ask me about my interests and goals
 
 
 ## 🌐 Socials:
